@@ -1,0 +1,32 @@
+name: lineP
+channels:
+  - conda-forge
+ # - nvidia
+dependencies:
+  # 
+  - numpy
+  - pandas
+  - matplotlib
+  - cartopy
+  - proj  # Required for cartopy
+  - geos  # Required for cartopy
+  - cmocean
+  - cmcrameri
+  - scikit-learn
+  - python=3.11
+ # - nvidia::cuda-toolkit
+  - tensorflow
+  - jupyter
+  - jupyterlab
+  - netcdf4
+  - xarray
+  - cf_xarray
+  - xgcm
+  - seawater
+  - gsw
+  - git
+  - pip
+
+       
+
+  

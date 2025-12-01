@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+.git/
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+pre-train-model.ipynb
+
